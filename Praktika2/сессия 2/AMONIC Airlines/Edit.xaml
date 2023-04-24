@@ -1,0 +1,39 @@
+﻿<Window x:Class="AMONIC_Airlines.Edit"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AMONIC_Airlines"
+        mc:Ignorable="d"
+        Title="Edit" Width="550" Height="250" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Grid>
+        <GroupBox VerticalAlignment="Top" Header="Flight route" Height="90" Margin="10 10 10 0" FontSize="14" FontFamily="TeX Gyre Adventor">
+            <Grid Width="300" HorizontalAlignment="Left" Margin="40 0 0 0">
+                <TextBlock Text="From:" VerticalAlignment="Center" HorizontalAlignment="Left" TextAlignment="Center" FontFamily="TeX Gyre Adventor"/>
+                <TextBlock x:Name="From_TBl" Text="" VerticalAlignment="Center" HorizontalAlignment="Left" TextAlignment="Center" Margin="35 0 0 0" FontFamily="TeX Gyre Adventor"/>
+                <TextBlock Text="To:" VerticalAlignment="Center" HorizontalAlignment="Left" TextAlignment="Center" Margin="90 0 0 0" FontFamily="TeX Gyre Adventor"/>
+                <TextBlock x:Name="To_TBl" Text="" VerticalAlignment="Center" HorizontalAlignment="Left" TextAlignment="Center" Margin="110 0 0 0" FontFamily="TeX Gyre Adventor"/>
+                <TextBlock x:Name="Aircraft_TBl" Text="" VerticalAlignment="Center" HorizontalAlignment="Right" TextAlignment="Center" FontFamily="TeX Gyre Adventor"/>
+            </Grid>
+        </GroupBox>
+        <Grid VerticalAlignment="Center" HorizontalAlignment="Left" Width="170" Margin="10 40 0 0">
+            <TextBlock Text="Date:" HorizontalAlignment="Left" VerticalAlignment="Center" Width="40" TextAlignment="Right" FontSize="14" FontFamily="TeX Gyre Adventor"/>
+            <DatePicker x:Name="Date_DP" SelectedDate="{Binding Date}" HorizontalAlignment="Right" VerticalAlignment="Center" Width="120" TextBlock.FontSize="14" Language="ENG" FontFamily="TeX Gyre Adventor"/>
+        </Grid>
+
+        <Grid VerticalAlignment="Center" HorizontalAlignment="Center" Width="130" Margin="0 40 10 0">
+            <TextBlock Text="Time:" HorizontalAlignment="Left" VerticalAlignment="Center" Width="40" TextAlignment="Right" FontSize="14" FontFamily="TeX Gyre Adventor"/>
+            <TextBox x:Name="Time_TB" Text="{Binding Time}" HorizontalAlignment="Right" VerticalAlignment="Center" Width="80" TextAlignment="Center" MaxLength="5" TextBlock.FontSize="14" FontFamily="TeX Gyre Adventor"/>
+        </Grid>
+
+        <Grid VerticalAlignment="Center" HorizontalAlignment="Right" Width="190" Margin="0 40 10 0">
+            <TextBlock Text="Economy price: $" HorizontalAlignment="Left" VerticalAlignment="Center" Width="108" TextAlignment="Right" FontSize="14" FontFamily="TeX Gyre Adventor"/>
+            <TextBox x:Name="EconomyPrice_TB" Text="{Binding EconomyPrice}" HorizontalAlignment="Right" VerticalAlignment="Center" Width="80" TextAlignment="Center" MaxLength="5" TextBlock.FontSize="14" FontFamily="TeX Gyre Adventor"/>
+        </Grid>
+
+        <Grid VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="200" Margin="0 0 30 30">
+            <Button Content="Update" HorizontalAlignment="Left" VerticalAlignment="Center" Width="90" FontSize="14" Click="Update_Btn" FontFamily="TeX Gyre Adventor"/>
+            <Button Content="Cancel" HorizontalAlignment="Right" VerticalAlignment="Center" Width="90" FontSize="14" Click="Cancel_Btn" FontFamily="TeX Gyre Adventor"/>
+        </Grid>
+    </Grid>
+</Window>

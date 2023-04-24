@@ -1,0 +1,81 @@
+G:\УЧ05\Praktika\Praktika\bin\Debug\Praktika.exe.config
+G:\УЧ05\Praktika\Praktika\bin\Debug\Praktika.exe
+G:\УЧ05\Praktika\Praktika\bin\Debug\Praktika.pdb
+G:\УЧ05\Praktika\Praktika\obj\Debug\Praktika.csproj.AssemblyReference.cache
+G:\УЧ05\Praktika\Praktika\obj\Debug\Praktika.csproj.SuggestedBindingRedirects.cache
+G:\УЧ05\Praktika\Praktika\obj\Debug\MainWindow.g.cs
+G:\УЧ05\Praktika\Praktika\obj\Debug\App.g.cs
+G:\УЧ05\Praktika\Praktika\obj\Debug\Praktika_MarkupCompile.cache
+G:\УЧ05\Praktika\Praktika\obj\Debug\Praktika_MarkupCompile.lref
+G:\УЧ05\Praktika\Praktika\obj\Debug\MainWindow.baml
+G:\УЧ05\Praktika\Praktika\obj\Debug\Praktika.g.resources
+G:\УЧ05\Praktika\Praktika\obj\Debug\Praktika.Properties.Resources.resources
+G:\УЧ05\Praktika\Praktika\obj\Debug\Praktika.csproj.GenerateResource.cache
+G:\УЧ05\Praktika\Praktika\obj\Debug\Praktika.csproj.CoreCompileInputs.cache
+G:\УЧ05\Praktika\Praktika\obj\Debug\Praktika.exe
+G:\УЧ05\Praktika\Praktika\obj\Debug\Praktika.pdb
+G:\УЧ05\Praktika\Praktika\obj\Debug\View\AMONIC Airlines Automation System.g.cs
+G:\УЧ05\Praktika\Praktika\obj\Debug\View\AMONIC Airlines Automation System.baml
+G:\УЧ05\Praktika\Praktika\bin\Debug\EntityFramework.dll
+G:\УЧ05\Praktika\Praktika\bin\Debug\EntityFramework.SqlServer.dll
+G:\УЧ05\Praktika\Praktika\bin\Debug\EntityFramework.xml
+G:\УЧ05\Praktika\Praktika\bin\Debug\EntityFramework.SqlServer.xml
+G:\УЧ05\Praktika\Praktika\bin\Debug\ru\EntityFramework.resources.dll
+G:\УЧ05\Praktika\Praktika\obj\Debug\Praktika_Content.g.cs
+G:\УЧ05\Praktika\Praktika\obj\Debug\Praktika.csproj.CopyComplete
+G:\УЧ05\Praktika\Praktika\obj\Debug\View\AddUser.g.cs
+G:\УЧ05\Praktika\Praktika\obj\Debug\View\AddUser.baml
+E:\УЧ.05\Сессия 1\Praktika\Praktika\bin\Debug\Praktika.exe.config
+E:\УЧ.05\Сессия 1\Praktika\Praktika\bin\Debug\Praktika.exe
+E:\УЧ.05\Сессия 1\Praktika\Praktika\bin\Debug\Praktika.pdb
+E:\УЧ.05\Сессия 1\Praktika\Praktika\bin\Debug\EntityFramework.dll
+E:\УЧ.05\Сессия 1\Praktika\Praktika\bin\Debug\EntityFramework.SqlServer.dll
+E:\УЧ.05\Сессия 1\Praktika\Praktika\bin\Debug\EntityFramework.xml
+E:\УЧ.05\Сессия 1\Praktika\Praktika\bin\Debug\EntityFramework.SqlServer.xml
+E:\УЧ.05\Сессия 1\Praktika\Praktika\bin\Debug\ru\EntityFramework.resources.dll
+E:\УЧ.05\Сессия 1\Praktika\Praktika\obj\Debug\Praktika.csproj.AssemblyReference.cache
+E:\УЧ.05\Сессия 1\Praktika\Praktika\obj\Debug\Praktika.csproj.SuggestedBindingRedirects.cache
+E:\УЧ.05\Сессия 1\Praktika\Praktika\obj\Debug\MainWindow.g.cs
+E:\УЧ.05\Сессия 1\Praktika\Praktika\obj\Debug\View\AddUser.g.cs
+E:\УЧ.05\Сессия 1\Praktika\Praktika\obj\Debug\View\AMONIC Airlines Automation System.g.cs
+E:\УЧ.05\Сессия 1\Praktika\Praktika\obj\Debug\App.g.cs
+E:\УЧ.05\Сессия 1\Praktika\Praktika\obj\Debug\Praktika_Content.g.cs
+E:\УЧ.05\Сессия 1\Praktika\Praktika\obj\Debug\Praktika_MarkupCompile.cache
+E:\УЧ.05\Сессия 1\Praktika\Praktika\obj\Debug\Praktika_MarkupCompile.lref
+E:\УЧ.05\Сессия 1\Praktika\Praktika\obj\Debug\MainWindow.baml
+E:\УЧ.05\Сессия 1\Praktika\Praktika\obj\Debug\View\AddUser.baml
+E:\УЧ.05\Сессия 1\Praktika\Praktika\obj\Debug\View\AMONIC Airlines Automation System.baml
+E:\УЧ.05\Сессия 1\Praktika\Praktika\obj\Debug\Praktika.g.resources
+E:\УЧ.05\Сессия 1\Praktika\Praktika\obj\Debug\Praktika.Properties.Resources.resources
+E:\УЧ.05\Сессия 1\Praktika\Praktika\obj\Debug\Praktika.csproj.GenerateResource.cache
+E:\УЧ.05\Сессия 1\Praktika\Praktika\obj\Debug\Praktika.csproj.CoreCompileInputs.cache
+E:\УЧ.05\Сессия 1\Praktika\Praktika\obj\Debug\Praktika.csproj.CopyComplete
+E:\УЧ.05\Сессия 1\Praktika\Praktika\obj\Debug\Praktika.exe
+E:\УЧ.05\Сессия 1\Praktika\Praktika\obj\Debug\Praktika.pdb
+F:\УЧ.05\Сессия 1\Praktika\Praktika\obj\Debug\Praktika.csproj.AssemblyReference.cache
+F:\УЧ.05\Сессия 1\Praktika\Praktika\obj\Debug\Praktika.csproj.SuggestedBindingRedirects.cache
+F:\УЧ.05\Сессия 1\Praktika\Praktika\obj\Debug\MainWindow.g.cs
+F:\УЧ.05\Сессия 1\Praktika\Praktika\obj\Debug\View\AddUser.g.cs
+F:\УЧ.05\Сессия 1\Praktika\Praktika\obj\Debug\View\AMONIC Airlines Automation System.g.cs
+F:\УЧ.05\Сессия 1\Praktika\Praktika\obj\Debug\App.g.cs
+F:\УЧ.05\Сессия 1\Praktika\Praktika\obj\Debug\Praktika_Content.g.cs
+F:\УЧ.05\Сессия 1\Praktika\Praktika\obj\Debug\Praktika_MarkupCompile.cache
+F:\УЧ.05\Сессия 1\Praktika\Praktika\obj\Debug\Praktika_MarkupCompile.lref
+F:\УЧ.05\Сессия 1\Praktika\Praktika\obj\Debug\Praktika.exe
+F:\УЧ.05\Сессия 1\Praktika\Praktika\obj\Debug\Praktika.pdb
+F:\УЧ.05\Сессия 1\Praktika\Praktika\bin\Debug\Praktika.exe.config
+F:\УЧ.05\Сессия 1\Praktika\Praktika\bin\Debug\Praktika.exe
+F:\УЧ.05\Сессия 1\Praktika\Praktika\bin\Debug\Praktika.pdb
+F:\УЧ.05\Сессия 1\Praktika\Praktika\bin\Debug\EntityFramework.dll
+F:\УЧ.05\Сессия 1\Praktika\Praktika\bin\Debug\EntityFramework.SqlServer.dll
+F:\УЧ.05\Сессия 1\Praktika\Praktika\bin\Debug\EntityFramework.xml
+F:\УЧ.05\Сессия 1\Praktika\Praktika\bin\Debug\EntityFramework.SqlServer.xml
+F:\УЧ.05\Сессия 1\Praktika\Praktika\bin\Debug\ru\EntityFramework.resources.dll
+F:\УЧ.05\Сессия 1\Praktika\Praktika\obj\Debug\MainWindow.baml
+F:\УЧ.05\Сессия 1\Praktika\Praktika\obj\Debug\View\AddUser.baml
+F:\УЧ.05\Сессия 1\Praktika\Praktika\obj\Debug\View\AMONIC Airlines Automation System.baml
+F:\УЧ.05\Сессия 1\Praktika\Praktika\obj\Debug\Praktika.g.resources
+F:\УЧ.05\Сессия 1\Praktika\Praktika\obj\Debug\Praktika.Properties.Resources.resources
+F:\УЧ.05\Сессия 1\Praktika\Praktika\obj\Debug\Praktika.csproj.GenerateResource.cache
+F:\УЧ.05\Сессия 1\Praktika\Praktika\obj\Debug\Praktika.csproj.CoreCompileInputs.cache
+F:\УЧ.05\Сессия 1\Praktika\Praktika\obj\Debug\Praktika.csproj.CopyComplete
